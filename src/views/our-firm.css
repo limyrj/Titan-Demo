@@ -1,0 +1,379 @@
+.our-firm-container {
+  min-height: 100vh;
+}
+.our-firm-our-firm {
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+  background-color: rgba(253, 253, 253, 1);
+}
+.our-firm-top-menu {
+  width: 1728px;
+  height: 120px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.our-firm-rectangle34 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 120px;
+  position: absolute;
+}
+.our-firm-text {
+  top: 48px;
+  left: 848px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-what-we-do {
+  top: 48px;
+  left: 1048px;
+  width: 168px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.our-firm-down-arrow {
+  top: 13px;
+  left: 156px;
+  width: 12px;
+  height: 7px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.our-firm-line9 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.our-firm-line91 {
+  top: 7px;
+  left: 6px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.our-firm-text02 {
+  color: rgba(0, 0, 0, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text04 {
+  top: 48px;
+  left: 1298px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text06 {
+  top: 48px;
+  left: 1478px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-titan-capital-logo1 {
+  top: 12px;
+  left: 150px;
+  width: 192px;
+  height: 100px;
+  position: absolute;
+}
+.our-firm-group7 {
+  width: 1728px;
+  height: 540px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.our-firm-rectangle38 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 540px;
+  position: absolute;
+}
+.our-firm-group2 {
+  top: 60px;
+  left: 256px;
+  width: 1216px;
+  height: 420px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.our-firm-text08 {
+  left: 454px;
+  color: rgba(255, 250, 250, 1);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Libre Baskerville;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text10 {
+  top: 110px;
+  color: rgba(255, 250, 250, 1);
+  width: 1216px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-group8 {
+  width: 1728px;
+  height: 1356px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.our-firm-rectangle39 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 1356px;
+  position: absolute;
+}
+.our-firm-text21 {
+  top: 60px;
+  left: 700px;
+  color: rgba(0, 0, 0, 1);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Libre Baskerville;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-group3 {
+  top: 146px;
+  left: 518px;
+  width: 800px;
+  height: 300px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.our-firm-tbk1 {
+  top: 0px;
+  left: 0px;
+  width: 299px;
+  height: 300px;
+  position: absolute;
+  border-radius: 263px;
+}
+.our-firm-text23 {
+  top: 100px;
+  left: 382.08953857421875px;
+  color: rgba(0, 0, 0, 1);
+  width: 418px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Hanken Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text24 {
+  font-weight: 700;
+}
+.our-firm-line11 {
+  top: 100px;
+  left: 346px;
+  width: 100px;
+  height: 0px;
+  position: absolute;
+}
+.our-firm-text29 {
+  top: 546px;
+  left: 166px;
+  color: rgba(0, 0, 0, 1);
+  width: 1388px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Hanken Grotesk;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text30 {
+  font-weight: 700;
+}
+.our-firm-footer {
+  width: 1728px;
+  height: 150px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.our-firm-rectangle36 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 150px;
+  position: absolute;
+}
+.our-firm-text53 {
+  top: 99px;
+  left: 539px;
+  color: rgba(255, 250, 250, 1);
+  width: 650px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: 160.0000023841858%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-site-navigation {
+  top: 35px;
+  left: 469px;
+  width: 790px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.our-firm-text55 {
+  color: rgba(255, 250, 250, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text57 {
+  left: 220px;
+  color: rgba(255, 250, 250, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text59 {
+  left: 490px;
+  color: rgba(255, 250, 250, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.our-firm-text61 {
+  left: 690px;
+  color: rgba(255, 250, 250, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

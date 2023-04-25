@@ -1,0 +1,458 @@
+.what-we-do-container {
+  min-height: 100vh;
+}
+.what-we-do-what-we-do {
+  width: 100%;
+  height: 1282px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(253, 253, 253, 1);
+}
+.what-we-do-group9 {
+  top: 120px;
+  left: 0px;
+  width: 1728px;
+  height: 1012px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.what-we-do-rectangle39 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 1012px;
+  position: absolute;
+}
+.what-we-do-chuttersnap-iboom5tbfvsunsplash1 {
+  top: 172px;
+  left: 184px;
+  width: 400px;
+  height: 600px;
+  position: absolute;
+}
+.what-we-do-chuttersnap-iboom5tbfvsunsplash2 {
+  top: 172px;
+  left: 664px;
+  width: 400px;
+  height: 600px;
+  position: absolute;
+}
+.what-we-do-chuttersnap-iboom5tbfvsunsplash3 {
+  top: 172px;
+  left: 1144px;
+  width: 400px;
+  height: 600px;
+  position: absolute;
+}
+.what-we-do-text {
+  top: 30px;
+  left: 700px;
+  color: rgba(0, 0, 0, 1);
+  width: 328px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Libre Baskerville;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text02 {
+  top: 100px;
+  left: 526px;
+  color: rgba(0, 0, 0, 1);
+  width: 676px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text04 {
+  top: 800px;
+  left: 184px;
+  color: rgba(0, 0, 0, 1);
+  width: 400px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Libre Baskerville;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text06 {
+  top: 800px;
+  left: 664px;
+  color: rgba(0, 0, 0, 1);
+  width: 400px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Libre Baskerville;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text08 {
+  top: 800px;
+  left: 1144px;
+  color: rgba(0, 0, 0, 1);
+  width: 400px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Libre Baskerville;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-past-deals-button {
+  top: 860px;
+  left: 184px;
+  width: 125px;
+  height: 52px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.what-we-do-rectangle391 {
+  top: 0px;
+  left: 0px;
+  width: 125px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.what-we-do-text10 {
+  top: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-past-deals-button1 {
+  top: 860px;
+  left: 664px;
+  width: 125px;
+  height: 52px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.what-we-do-rectangle392 {
+  top: 0px;
+  left: 0px;
+  width: 125px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.what-we-do-text12 {
+  top: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-past-deals-button2 {
+  top: 860px;
+  left: 1144px;
+  width: 125px;
+  height: 52px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.what-we-do-rectangle393 {
+  top: 0px;
+  left: 0px;
+  width: 125px;
+  height: 52px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+.what-we-do-text14 {
+  top: 2px;
+  color: rgba(0, 0, 0, 1);
+  width: 125px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-footer {
+  top: 1132px;
+  left: 0px;
+  width: 1728px;
+  height: 150px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.what-we-do-rectangle36 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 150px;
+  position: absolute;
+}
+.what-we-do-text16 {
+  top: 99px;
+  left: 539px;
+  color: rgba(255, 250, 250, 1);
+  width: 650px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: 160.0000023841858%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-site-navigation {
+  top: 35px;
+  left: 469px;
+  width: 790px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.what-we-do-text18 {
+  color: rgba(255, 250, 250, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text20 {
+  left: 220px;
+  color: rgba(255, 250, 250, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text22 {
+  left: 490px;
+  color: rgba(255, 250, 250, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text24 {
+  left: 690px;
+  color: rgba(255, 250, 250, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-top-menu {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 120px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.what-we-do-rectangle34 {
+  top: 0px;
+  left: 0px;
+  width: 1728px;
+  height: 120px;
+  position: absolute;
+}
+.what-we-do-text26 {
+  top: 48px;
+  left: 848px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-what-we-do1 {
+  top: 48px;
+  left: 1048px;
+  width: 168px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.what-we-do-down-arrow {
+  top: 13px;
+  left: 156px;
+  width: 12px;
+  height: 7px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.what-we-do-line9 {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.what-we-do-line91 {
+  top: 7px;
+  left: 6px;
+  width: 9px;
+  height: 0px;
+  position: absolute;
+}
+.what-we-do-text28 {
+  color: rgba(0, 0, 0, 1);
+  width: 150px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text30 {
+  top: 48px;
+  left: 1298px;
+  color: rgba(0, 0, 0, 1);
+  width: 80px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-text32 {
+  top: 48px;
+  left: 1478px;
+  color: rgba(0, 0, 0, 1);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Hanken Grotesk;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.what-we-do-titan-capital-logo1 {
+  top: 12px;
+  left: 150px;
+  width: 192px;
+  height: 100px;
+  position: absolute;
+}
